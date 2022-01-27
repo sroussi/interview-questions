@@ -93,7 +93,7 @@ Print the largest (maximum) hourglass sum found in ```arr```.
 ## Explanation
 ```arr``` contains the following hourglasses:
 
-![sample](sample.png)
+![hourglass](hourglass.png)
 
 The hourglass with the maximum sum (19) is:
 ```
